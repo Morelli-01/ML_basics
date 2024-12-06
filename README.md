@@ -1,2 +1,2 @@
 # ML_basics
-This repo contain basics implementation of foundamental machine learning algortithms
+This repo contain basics implementation of fundamental machine learning algortithms
